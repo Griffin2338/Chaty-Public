@@ -1,6 +1,6 @@
 # Chaty-Public
 
-My first flutter app. If u want to reach all codes of app, you can sen me a mail via yunusemrekaya2338@gmail.com
+My first flutter app that developed at 2019. If u want to reach all codes of app, you can sen me a mail via yunusemrekaya2338@gmail.com
 
 ![1](https://github.com/Griffin2338/internshipp/assets/72986426/7bd92dbd-de64-49f0-b7ce-2bcc7543aae3)
 
